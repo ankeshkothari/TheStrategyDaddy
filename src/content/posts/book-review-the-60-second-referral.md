@@ -3,7 +3,7 @@ title: "Book Review: The 60 Second Referral"
 date: "2009-11-19"
 ---
 
-![60-second-referral-book](https://thestrategydaddy.com/wp-content/uploads/60-second-referral-book.jpg "60-second-referral-book")I have a confession to make. Even though I've written about how powerful a (https://thestrategydaddy.com/joe-girard-selling/ "Joe Girard's Followup Marketing System"), I don't have a systematic followup system working for me.  I've always procrastinated in creating a followup system because the whole idea overwhelms me.
+![60-second-referral-book](/images/60-second-referral-book.jpg "60-second-referral-book")I have a confession to make. Even though I've written about how powerful a (https://thestrategydaddy.com/joe-girard-selling/ "Joe Girard's Followup Marketing System"), I don't have a systematic followup system working for me.  I've always procrastinated in creating a followup system because the whole idea overwhelms me.
 
 -   Who should I contact and how many times?
 -   How to contact them?
