@@ -3,7 +3,7 @@ title: "Book Review: The 60 Second Referral"
 date: "2009-11-19"
 ---
 
-![60-second-referral-book](/images/60-second-referral-book.jpg "60-second-referral-book")I have a confession to make. Even though I've written about how powerful a (https://thestrategydaddy.com/joe-girard-selling/ "Joe Girard's Followup Marketing System"), I don't have a systematic followup system working for me.  I've always procrastinated in creating a followup system because the whole idea overwhelms me.
+![60-second-referral-book](/images/60-second-referral-book.jpg "60-second-referral-book")I have a confession to make. Even though I've written about how powerful a (/joe-girard-selling/), I don't have a systematic followup system working for me.  I've always procrastinated in creating a followup system because the whole idea overwhelms me.
 
 -   Who should I contact and how many times?
 -   How to contact them?
@@ -11,7 +11,11 @@ date: "2009-11-19"
 -   How to plan it all out?
 -   How to keep track of everything?
 
-And so, I've always been stuck because of this overwhelm. Sure, I send out emails when work seems slow. And write newsletters and blog posts every so often. But I've not invested time in being disciplined to create a followup system that works like clockwork.  Because I always thought it was too much work. It was all too hard. How wrong was I! (http://www.marketingbestpractices.com/ "David Frey's Marketing Best Practices"), one of my marketing mentors recently asked me to read this short 128 page book "60 Second Referral." And the book is a real gem. Quick to read. And gives easy ideas you can implement right away. The whole book is pretty good with tons of ideas. It reads like a super brainstorming tool. You'll never be out of ideas as to how you should followup and stay connected with others. But my favorite parts were:
+And so, I've always been stuck because of this overwhelm. Sure, I send out emails when work seems slow. And write newsletters and blog posts every so often. But I've not invested time in being disciplined to create a followup system that works like clockwork.  Because I always thought it was too much work. It was all too hard. How wrong was I!
+
+(http://www.marketingbestpractices.com/ "David Frey's Marketing Best Practices"), one of my marketing mentors recently asked me to read this short 128 page book "60 Second Referral." And the book is a real gem. Quick to read. And gives easy ideas you can implement right away.
+
+The whole book is pretty good with tons of ideas. It reads like a super brainstorming tool. You'll never be out of ideas as to how you should followup and stay connected with others. But my favorite parts were:
 
 1.  Page 18
 2.  and the Appendix

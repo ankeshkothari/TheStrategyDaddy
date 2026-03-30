@@ -3,4 +3,22 @@ title: "The Magical Laundry Lady"
 date: "2010-05-03"
 ---
 
-**The** **magical** **laundry** **lady![](/images/laundry.jpg)** Half a century ago, a lady started a laundry service. She was brilliant, magical even. She could take out everything from coffee stains to mud to even pet stains. She had a bag full of tricks to remove any and every type of stain. Her venture was quite successful. Clients were becoming loyal and used to come back to her week after week. Soon her reputation spread far and wide. She could no longer handle all the work she used to get. So she decided to restrict her services only to one group of people. She changed tracks and started a “laundry service for bachelors only.” And something really strange happened. Her strategy back-fired. She started receiving more work than ever before! When she restricted her services to one target audience, she differentiated herself from laundry services. And every bachelor in town started coming to her for their laundry needs. What’s more, because of her unique service, she received loads of free publicity. And bachelors from nearby towns bought their business to her too. **Action** **summary:** °    You can differentiate your product by targeting one audience. °    It can be more profitable to target a large pie of a smaller cake than a small pie of a larger cake. °    By targeting one audience, you will position yourself as a specialist for the service you provide. °    Market to a smaller niche audience and you will earn more.
+**The** **magical** **laundry** **lady![](/images/laundry.jpg)**
+
+Half a century ago, a lady started a laundry service. She was brilliant, magical even. She could take out everything from coffee stains to mud to even pet stains. She had a bag full of tricks to remove any and every type of stain. Her venture was quite successful. Clients were becoming loyal and used to come back to her week after week.
+
+Soon her reputation spread far and wide. She could no longer handle all the work she used to get. So she decided to restrict her services only to one group of people. She changed tracks and started a “laundry service for bachelors only.”
+
+And something really strange happened. Her strategy back-fired. She started receiving more work than ever before! When she restricted her services to one target audience, she differentiated herself from laundry services. And every bachelor in town started coming to her for their laundry needs.
+
+What’s more, because of her unique service, she received loads of free publicity. And bachelors from nearby towns bought their business to her too.
+
+**Action** **summary:**
+
+- You can differentiate your product by targeting one audience.
+
+- It can be more profitable to target a large pie of a smaller cake than a small pie of a larger cake.
+
+- By targeting one audience, you will position yourself as a specialist for the service you provide.
+
+- Market to a smaller niche audience and you will earn more.

@@ -3,4 +3,22 @@ title: "Bob Dylan's Secret"
 date: "2010-05-31"
 ---
 
-![](/images/vs-300x240.jpg)“I am going to have to go blow my brains out,” says John Baky. Why? Because he is a curator of the Dylan collection at La Salle University and he can’t understand what Bob Dylan is doing in an advertisement - of all things for Victoria’s Secret. What is Bob Dylan doing in an advertisement that sells lingerie? At age 62, he has realized that his fan base isn’t getting any younger. He is creating an opportunity to attract the younger audience. And making it back on the radio with re-mixes of his old hits. And Victoria’s Secret has a benefit too. They created a buzz by doing something unusual. And they are planning to make a profit out of the buzz by selling Bob Dylan CDs full of hit love songs in their stores. Another stream of revenue for them.  Win-win for both of them!  **Action** **summary:**  °    It is not necessary to approach the people who share a similar target audience for joint ventures.  °    Joint ventures can showcase your products to an entire new target audience. °    Be a bit different. Do something un-usual. And you will create some buzz where there was none. You will generate free publicity.  °    Generate a new stream of revenue by selling some one else’s products that doesn’t compete with your products. That compliments your line of products.
+![](/images/vs-300x240.jpg)“I am going to have to go blow my brains out,” says John Baky. Why? Because he is a curator of the Dylan collection at La Salle University and he can’t understand what Bob Dylan is doing in an advertisement - of all things for Victoria’s Secret.
+
+What is Bob Dylan doing in an advertisement that sells lingerie?
+
+At age 62, he has realized that his fan base isn’t getting any younger. He is creating an opportunity to attract the younger audience. And making it back on the radio with re-mixes of his old hits.
+
+And Victoria’s Secret has a benefit too. They created a buzz by doing something unusual. And they are planning to make a profit out of the buzz by selling Bob Dylan CDs full of hit love songs in their stores. Another stream of revenue for them.
+
+Win-win for both of them!
+
+**Action** **summary:**
+
+- It is not necessary to approach the people who share a similar target audience for joint ventures.
+
+- Joint ventures can showcase your products to an entire new target audience.
+
+- Be a bit different. Do something un-usual. And you will create some buzz where there was none. You will generate free publicity.
+
+- Generate a new stream of revenue by selling some one else’s products that doesn’t compete with your products. That compliments your line of products.

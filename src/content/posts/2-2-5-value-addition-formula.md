@@ -3,4 +3,16 @@ title: "2 + 2 = 5… Value Addition Formula"
 date: "2010-09-07"
 ---
 
-![](/images/gf.jpg)A man and his wife were retiring at the same time. The man had been a barber for 40 straight years. His wife used to work as a beautician for almost the same amount of years too. Now they both thought it was time to retire and enjoy their old age. But they hadn’t counted on the boredom that set in after the first few months of retirement. They couldn’t cope up with so much free time on their hands. So they decided to convert their spare bedroom into a home saloon. They decided that they would just work 3 evenings a week and take the rest of the week off. And because both were specialist in different but complimentary activities, the customers won. The customers received attention from both of them. They could now access such services like massage, shave, sculptured hair-cut, shampoo, skin care and various other beauty remedies from under one roof itself! Because of the convenience they could give to their customers by combining complimentary services, they could charge them 3 to 5 times more than those services would usually cost else-where! They made a killing conducting the same services they had done in the last 40 years. They started earning even more than they used to before their retirement! They earned more even though they worked less. They added 2 to a 2 and made it into a 5. All by adding value for their customers!  **Action** **summary:** °    Don’t bundle up and discount...you have just added value. °    Look out for peoples’ convenience and they will pay you more.
+![](/images/gf.jpg)A man and his wife were retiring at the same time. The man had been a barber for 40 straight years. His wife used to work as a beautician for almost the same amount of years too. Now they both thought it was time to retire and enjoy their old age.
+
+But they hadn’t counted on the boredom that set in after the first few months of retirement. They couldn’t cope up with so much free time on their hands. So they decided to convert their spare bedroom into a home saloon. They decided that they would just work 3 evenings a week and take the rest of the week off.
+
+And because both were specialist in different but complimentary activities, the customers won. The customers received attention from both of them. They could now access such services like massage, shave, sculptured hair-cut, shampoo, skin care and various other beauty remedies from under one roof itself!
+
+Because of the convenience they could give to their customers by combining complimentary services, they could charge them 3 to 5 times more than those services would usually cost else-where! They made a killing conducting the same services they had done in the last 40 years. They started earning even more than they used to before their retirement! They earned more even though they worked less. They added 2 to a 2 and made it into a 5. All by adding value for their customers!
+
+**Action** **summary:**
+
+- Don’t bundle up and discount...you have just added value.
+
+- Look out for peoples’ convenience and they will pay you more.

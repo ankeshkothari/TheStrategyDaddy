@@ -3,4 +3,16 @@ title: "Repackaging the carb-book"
 date: "2012-06-21"
 ---
 
-![](/images/bv-300x278.jpg)The book “South Beach Diet” became an instant hit as soon as it was published. It is a slightly modified version of the Atkins diet and soon after Rodale had published it, it started climbing the bestseller lists. In fact, that book has topped the national bestsellers list for months. When Waterfront Media published the ebook version of South Beach Diet at southbeachdiet.com, they thought it would be a massive hit online too. But unfortunately that wasn’t so. The ebook version didn’t catch on. Bo Peabody, the founder of Waterfront Media, who had earlier sold Tripod.com to Lycos.com, was quoted as saying: “A book is incredibly compelling in the hands of a reader on the beach, but not so compelling when it's in digital form on the computer screen.” Was this the end of the ebook fad? Fortunately, Bo Peabody didn’t give up. He asked an important question: how could he make an ebook compelling on computer screens? And he found a solution that solved his problems: Make the ebook interactive. To compliment the ebook, he added a few interactive features such as a shopping list generator, a meal planner and a message board. He also started a beach buddies service to pair carb-conscious eaters who share similar weight-loss goals. They weren’t selling a book online anymore. They were selling a whole new package! They increased the price of the whole package too. **Actio****n** **summary****:** °    What works offline might not work online. But by repackaging the offline product for online use, you can bring in even better results. °    Add more value to your products by providing interactive features. And then you can easily increase prices earning more money.
+![](/images/bv-300x278.jpg)The book “South Beach Diet” became an instant hit as soon as it was published. It is a slightly modified version of the Atkins diet and soon after Rodale had published it, it started climbing the bestseller lists. In fact, that book has topped the national bestsellers list for months. When Waterfront Media published the ebook version of South Beach Diet at southbeachdiet.com, they thought it would be a massive hit online too.
+
+But unfortunately that wasn’t so. The ebook version didn’t catch on. Bo Peabody, the founder of Waterfront Media, who had earlier sold Tripod.com to Lycos.com, was quoted as saying: “A book is incredibly compelling in the hands of a reader on the beach, but not so compelling when it's in digital form on the computer screen.” Was this the end of the ebook fad?
+
+Fortunately, Bo Peabody didn’t give up. He asked an important question: how could he make an ebook compelling on computer screens? And he found a solution that solved his problems: Make the ebook interactive. To compliment the ebook, he added a few interactive features such as a shopping list generator, a meal planner and a message board. He also started a beach buddies service to pair carb-conscious eaters who share similar weight-loss goals.
+
+They weren’t selling a book online anymore. They were selling a whole new package! They increased the price of the whole package too.
+
+**Action Summary:**
+
+- What works offline might not work online. But by repackaging the offline product for online use, you can bring in even better results.
+
+- Add more value to your products by providing interactive features. And then you can easily increase prices earning more money.

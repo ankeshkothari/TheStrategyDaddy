@@ -3,4 +3,22 @@ title: "The six dollar burger"
 date: "2010-08-06"
 ---
 
-In the fall of 1960, Wilbur Hardee opened a drive-in quick service restaurant. The restaurant became extremely well known and in 1963, it became the first in the fast food industry to make a public offering of stock,![](/images/bgr.jpg) 2 years before McDonalds! Sometime after that, Hardees got lost. They could not cope up with McDonalds, Burger King, Wendy’s and other fast food chains cropping up everywhere. Hardees were losing a lot of money. The big chains were introducing $1 menu and Hardees, like many other restaurants, tried to keep up with them. This strategy almost ran them out of business. Things were turning from bad to worse until some one in the management took some important key decisions. While the big chains were cutting down costs and spending millions in advertising to attract more people, Hardees started increasing their prices. They decided to focus on earning more per diner than on bringing more diners in. Instead of waging a price war and coming out with their own $1 menu, Hardees introduced the “six dollar burger.” They made the burger thick. They used pure Angus beef. They became well known for thick and tasty burgers that tasted as good as home made ones. They started doing what no other hamburger joint was willing to do. They invested in making quality burgers when others were cutting costs. They started selling more expensive burgers when others were introducing cheap ones. And they prospered. They grew. Today they have about 4,000 Hardee's or Carl's Jr. restaurant all over the world!  Oh and they sold the “six dollar burgers” for only $3.99.  **Action** **summary:**  °    When the competition is fierce, focus on the attributes that the competition is weak at. Do something different.  °    4,000 people \* $1 = $4,000 revenue. And also 1,000 people \* $4 = $4,000 revenue. You can earn more by charging high even though the total number of buyers is low.  °    Letting people believe that they are receiving a deal will make them buy more as well as increase their satisfaction. Hardees used a superb tactic by charging just $4 for the “six dollar burger.” You too can make use of the tactic: show that your product is worth more and then give a deal to win more clients.
+In the fall of 1960, Wilbur Hardee opened a drive-in quick service restaurant. The restaurant became extremely well known and in 1963, it became the first in the fast food industry to make a public offering of stock,![](/images/bgr.jpg) 2 years before McDonalds!
+
+Sometime after that, Hardees got lost. They could not cope up with McDonalds, Burger King, Wendy’s and other fast food chains cropping up everywhere. Hardees were losing a lot of money. The big chains were introducing $1 menu and Hardees, like many other restaurants, tried to keep up with them. This strategy almost ran them out of business. Things were turning from bad to worse until some one in the management took some important key decisions.
+
+While the big chains were cutting down costs and spending millions in advertising to attract more people, Hardees started increasing their prices. They decided to focus on earning more per diner than on bringing more diners in. Instead of waging a price war and coming out with their own $1 menu, Hardees introduced the “six dollar burger.” They made the burger thick. They used pure Angus beef. They became well known for thick and tasty burgers that tasted as good as home made ones.
+
+They started doing what no other hamburger joint was willing to do. They invested in making quality burgers when others were cutting costs. They started selling more expensive burgers when others were introducing cheap ones. And they prospered. They grew. Today they have about 4,000 Hardee's or Carl's Jr. restaurant all over the world!
+
+Oh and they sold the “six dollar burgers” for only $3.99.
+
+**Action** **summary:**
+
+- When the competition is fierce, focus on the attributes that the competition is weak at. Do something different.
+
+- 4,000 people \* $1 = $4,000 revenue. And also 1,000
+
+people \* $4 = $4,000 revenue. You can earn more by charging high even though the total number of buyers is low.
+
+- Letting people believe that they are receiving a deal will make them buy more as well as increase their satisfaction. Hardees used a superb tactic by charging just $4 for the “six dollar burger.” You too can make use of the tactic: show that your product is worth more and then give a deal to win more clients.

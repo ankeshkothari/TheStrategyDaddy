@@ -3,4 +3,20 @@ title: "The telemarketing experiment"
 date: "2013-05-01"
 ---
 
-![](/images/tm-300x214.jpg)D. H. is a consumer researcher. He conducts an experiment on telemarketing that is quite noteworthy.  Callers call residents in a neighbourhood and ask if they would allow a representative  to their homes to sell them cookies. All the residents are told over the phone that proceeds from the sale of cookies would go towards the supply of meals for the needy. This standard solicitation approach generates a mere 18% agreement. 18 out of 100 people agree to see a representative at their homes. D. H. then tweaks the telemarketing script a bit. When residents pick up the phone, they are greeted with “I hope you are feeling well this evening?” This tweak surprises Howard by generating an even lower response of only 15%. Being a true researcher, D. H. tries one more approach. This time, the callers ask residents a question before the solicitation. The caller simply asks “How are you feeling today?” and waits for an answer before giving the sales pitch. The results are surprising. 108 out of 120 people give a positive response to the question, such as “I am fine” Or “I am doing great today.” Even more surprising is the number of residents that agree to see a representative at their homes. 32% people agree to see the cookie seller at their place! **Actio****n** **summary****:** °    A greater % of people agree to see the seller once they’ve answered a simple “how are you feeling” question. This is because they feel committed to you by answering a question. °    Once people make a small commitment to you by answering questions, they can make a bigger commitment by agreeing to see you and ultimately by agreeing to purchase from you hopefully. °    The more sincere you are with your questions, the better response you’ll receive. °    Involve people in the process. Asking people “how are you feeling today” and then waiting for the answer involved them and almost doubled the response rate. Imagine the response you might receive if you make your clients feel like they are involved in the process by asking about their opinions and suggestions!
+![](/images/tm-300x214.jpg)D. H. is a consumer researcher. He conducts an experiment on telemarketing that is quite noteworthy.  Callers call residents in a neighbourhood and ask if they would allow a representative  to their homes to sell them cookies. All the residents are told over the phone that proceeds from the sale of cookies would go towards the supply of meals for the needy.
+
+This standard solicitation approach generates a mere 18% agreement. 18 out of 100 people agree to see a representative at their homes.
+
+D. H. then tweaks the telemarketing script a bit. When residents pick up the phone, they are greeted with “I hope you are feeling well this evening?” This tweak surprises Howard by generating an even lower response of only 15%.
+
+Being a true researcher, D. H. tries one more approach. This time, the callers ask residents a question before the solicitation. The caller simply asks “How are you feeling today?” and waits for an answer before giving the sales pitch. The results are surprising. 108 out of 120 people give a positive response to the question, such as “I am fine” Or “I am doing great today.” Even more surprising is the number of residents that agree to see a representative at their homes. 32% people agree to see the cookie seller at their place!
+
+**Action Summary:**
+
+- A greater % of people agree to see the seller once they’ve answered a simple “how are you feeling” question. This is because they feel committed to you by answering a question.
+
+- Once people make a small commitment to you by answering questions, they can make a bigger commitment by agreeing to see you and ultimately by agreeing to purchase from you hopefully.
+
+- The more sincere you are with your questions, the better response you’ll receive.
+
+- Involve people in the process. Asking people “how are you feeling today” and then waiting for the answer involved them and almost doubled the response rate. Imagine the response you might receive if you make your clients feel like they are involved in the process by asking about their opinions and suggestions!

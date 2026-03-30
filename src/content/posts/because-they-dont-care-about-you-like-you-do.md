@@ -3,4 +3,16 @@ title: "Because They Don't Care About You Like You Do"
 date: "2009-12-01"
 ---
 
-[](https://thestrategydaddy.com/.a/6a0115711ad1c6970c0120a4eb8b3c970b-pi)![12](/images/12.jpg "12")As much as we would all like to think that we are all critical thinkers, the general public isn’t.  Does anyone really stop their daily routine, sit and think about a specific business, research the advantage of using one product versus another and make an educated decision? When is the last time you personally tested the elasticity of your garbage bags compared to all the other brands on the market?  When is the last time you tried a different brand of sugar because your research showed that the quality was affected by weather conditions in the growing phase?  How about changing your brand of socks because you discovered that a different brand has a 3% higher absorption rate then the socks you currently wear?  Do you even feel a 3% higher absorption rate?  It’s doubtful that any of these examples have ever crossed your mind.  There are too many factors in our day–to-day life to become experts in all of them.  We rely on what we hear or see to make decisions.  A mistake is to talk too much about a product, and not enough about the benefits. Say that one brand is better than another, that one garbage bag won’t rip when it’s overfilled.  People don’t have the desire to find the truth, we just want to be told it and we are willing to believe it. Why advertise?  Cause no one cares enough about what you do to look for themselves…tell them what you can do for them, that might interest them.
+
+
+![12](/images/12.jpg "12")As much as we would all like to think that we are all critical thinkers, the general public isn’t.  Does anyone really stop their daily routine, sit and think about a specific business, research the advantage of using one product versus another and make an educated decision?
+
+When is the last time you personally tested the elasticity of your garbage bags compared to all the other brands on the market?
+
+When is the last time you tried a different brand of sugar because your research showed that the quality was affected by weather conditions in the growing phase?
+
+How about changing your brand of socks because you discovered that a different brand has a 3% higher absorption rate then the socks you currently wear?  Do you even feel a 3% higher absorption rate?
+
+It’s doubtful that any of these examples have ever crossed your mind.  There are too many factors in our day–to-day life to become experts in all of them.  We rely on what we hear or see to make decisions.  A mistake is to talk too much about a product, and not enough about the benefits.
+
+Say that one brand is better than another, that one garbage bag won’t rip when it’s overfilled.  People don’t have the desire to find the truth, we just want to be told it and we are willing to believe it. Why advertise?  Cause no one cares enough about what you do to look for themselves…tell them what you can do for them, that might interest them.
