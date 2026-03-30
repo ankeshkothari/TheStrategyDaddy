@@ -1,0 +1,29 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Redirects for URL-encoded WordPress slugs
+[[redirects]]
+  from = "/%e2%80%9cselling-down%e2%80%9d-sales-process/"
+  to = "/selling-down-sales-process/"
+  status = 301
+
+[[redirects]]
+  from = "/2-2-5%e2%80%a6-value-addition-formula/"
+  to = "/2-2-5-value-addition-formula/"
+  status = 301

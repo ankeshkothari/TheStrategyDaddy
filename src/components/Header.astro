@@ -1,0 +1,61 @@
+---
+const navLinks = [
+  { href: '/about/', label: 'About' },
+];
+---
+
+<header class="header">
+  <nav class="nav">
+    <a href="/" class="logo">The Strategy Daddy</a>
+    <ul class="nav-links">
+      {navLinks.map((link) => (
+        <li>
+          <a href={link.href}>{link.label}</a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+</header>
+
+<style>
+  .header {
+    background-color: #c0392b;
+  }
+
+  .nav {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: var(--spacing-md) var(--spacing-lg);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .logo {
+    font-weight: 700;
+    font-size: 1.25rem;
+    color: white;
+  }
+
+  .logo:hover {
+    text-decoration: none;
+    opacity: 0.9;
+  }
+
+  .nav-links {
+    display: flex;
+    gap: var(--spacing-lg);
+    list-style: none;
+    padding: 0;
+  }
+
+  .nav-links a {
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 0.95rem;
+  }
+
+  .nav-links a:hover {
+    color: white;
+    text-decoration: none;
+  }
+</style>
